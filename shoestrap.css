@@ -50,6 +50,12 @@
   width: 100%;
 }
 
+.basic-nav-bar {
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
 
 * {
   -webkit-box-sizing: border-box;
